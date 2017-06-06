@@ -37,6 +37,44 @@
     }
 
 
+.one:hover{
+    animation-name: one;
+    animation-duration: 0.5s;
+    animation-iteration-count:1;
+    
+    
+}
+
+@keyframes one{
+    0%{
+        width: 24%;
+    }
+    100% {
+        width: 30%;
+    }
+    
+    
+    one:hover{
+    
+       animation-name: one-1;
+    animation-duration: 0.5s;
+    animation-iteration-count:1;
+     
+    }   
+    
+    @keyframes one-1{
+    .two, .tree, .four{
+        0%{
+            width: 24%;
+         }
+        
+        100%{
+            width: 20%;
+        }
+    }
+    s
+}
+
 
 
 
