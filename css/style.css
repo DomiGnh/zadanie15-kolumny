@@ -1,0 +1,32 @@
+.box{
+    width: 24%;
+    height: 100%;
+    float: left;
+}
+
+.one{
+    background-image: url(one.jpeg);
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.two{
+    background-image: url(two.jpeg);
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.three{
+    background-image: url(three.jpeg);
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+.four{
+    background-image: url(four.jpg);
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
